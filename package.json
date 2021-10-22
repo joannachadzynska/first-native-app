@@ -7,7 +7,10 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "anonymous-files": "^1.0.1",
     "expo": "~43.0.0",
+    "expo-image-picker": "~11.0.3",
+    "expo-sharing": "~10.0.3",
     "expo-splash-screen": "~0.13.3",
     "expo-status-bar": "~1.1.0",
     "expo-updates": "~0.10.5",

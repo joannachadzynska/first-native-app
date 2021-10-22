@@ -1,11 +1,14 @@
 {
-  "expo": {
-    "name": "first",
-    "slug": "first",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "first"
+    "expo": {
+        "name": "first",
+        "slug": "first",
+        "version": "1.0.0",
+        "assetBundlePatterns": ["**/*"],
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#000000"
+        }
+    },
+    "name": "first"
 }
