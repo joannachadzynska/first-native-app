@@ -1,1 +1,0 @@
-# firtst-native-app
